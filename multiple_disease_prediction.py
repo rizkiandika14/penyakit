@@ -4,7 +4,7 @@ Created on Tue Feb 14 15:16:08 2023
 
 @author: hp
 """
-
+pip install streamlit-option-menu
 import pickle
 import streamlit as st
 import pandas as pd
